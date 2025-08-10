@@ -1,0 +1,8 @@
+ <svg width="41" height="41" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                      <defs><rect id="a" x="0" y="0" width="41" height="41" rx="2"></rect></defs>
+                      <g fill="none" fill-rule="evenodd">
+                        <path stroke="#1C5DE7" d="M14 21.25h14v1H14z"></path>
+                        <rect stroke="#1C5DE7" x="7.5" y="18.5" width="6" height="6" rx="3"></rect>
+                        <rect stroke="#1C5DE7" x="28.5" y="18.5" width="6" height="6" rx="3"></rect>
+                      </g>
+                    </svg>
